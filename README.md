@@ -1,14 +1,14 @@
 # Laravel 8 Todo App
 
-This is a simple ToDo app with multiple user support.
+This is a simple Todo app with bulk edit and deletion of records
 
-This is built on Laravel Framework 5.1. This was built for demonstrate purpose.
+This is built on Laravel Framework 8. This was built for demonstrate purpose.
 
 ## Installation
 
 Clone the repository-
 ```
-git clone https://github.com/milon521/laravel-todo.git
+git clone https://github.com/realx4rd/laravel-todo.git
 ```
 
 Then cd into the folder with this command-
