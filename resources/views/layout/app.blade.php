@@ -9,8 +9,8 @@
     <meta name="base-url" content="{{ url('/') }}">
     <title>Todo App</title>
     <!-- Bootstrap core CSS -->
-    <link href='{{ asset("public/bootstrap-4.6.0-dist/css/bootstrap.min.css") }}' rel="stylesheet" />
-    <script src="{{ asset('public/js/app.js') }}"></script>
+    <link href='{{ asset("bootstrap-4.6.0-dist/css/bootstrap.min.css") }}' rel="stylesheet" />
+    <script src="{{ asset('js/app.js') }}"></script>
 </head>
 <body>
     @yield('contents')
