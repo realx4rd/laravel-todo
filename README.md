@@ -26,9 +26,9 @@ Then create a environment file using this command-
 cp .env.example .env
 ```
 
-Then edit `.env` file with appropriate credential for your database server. Just edit these two parameter(`DB_USERNAME`, `DB_PASSWORD`).
+Then edit `.env` file with appropriate credential for your database server. Edit these two parameter(`DB_USERNAME`, `DB_PASSWORD`).
 
-Then create a database named `todos` and then do a database migration using this command-
+Then create a database named `todo_app` and then do a database migration using this command-
 ```
 php artisan migrate
 ```
