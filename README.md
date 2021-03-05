@@ -33,15 +33,6 @@ Then create a database named `todos` and then do a database migration using this
 php artisan migrate
 ```
 
-Then change permission of storage folder using thins command-
-```
-(sudo) chmod 777 -R storage
-```
-
-At last generate application key, which will be used for password hashing, session and cookie encryption etc.
-```
-php artisan key:generate
-```
 
 ## Run server
 
