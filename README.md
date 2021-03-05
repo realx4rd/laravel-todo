@@ -33,6 +33,10 @@ Then create a database named `todos` and then do a database migration using this
 php artisan migrate
 ```
 
+At last generate application key, which will be used for password hashing, session and cookie encryption etc.
+```
+php artisan key:generate
+```
 
 ## Run server
 
