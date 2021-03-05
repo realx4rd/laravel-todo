@@ -47,5 +47,9 @@ Then go to `http://localhost:8000` from your browser and see the app.
 
 If you have any query please contact at realx4rd@gmail.com
 
+## Screenshot
 
+![Todo List](/screenshots/1.png)
+![Add Todo](/screenshots/2.png)
+![Edit Todo](/screenshots/3.png)
 
