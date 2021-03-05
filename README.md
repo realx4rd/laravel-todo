@@ -49,7 +49,7 @@ If you have any query please contact at realx4rd@gmail.com
 
 ## Screenshot
 
-![Todo List](/screenshots/1.png)
-![Add Todo](/screenshots/2.png)
-![Edit Todo](/screenshots/3.png)
+![Todo List](/screenshot/1.png)
+![Add Todo](/screenshot/2.png)
+![Edit Todo](/screenshot/3.png)
 
